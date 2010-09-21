@@ -1,0 +1,9 @@
+commit 259165bf0ed548be9aeac2984ba207323eed2207
+Author: William <william.cameron@mtcmedia.co.uk>
+Date:   Tue Sep 21 09:42:14 2010 +0100
+
+    test
+
+diff --git a/README b/README
+deleted file mode 100644
+index e69de29..0000000
