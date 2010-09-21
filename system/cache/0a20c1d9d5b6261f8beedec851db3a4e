@@ -1,0 +1,98 @@
+1280964218TS---><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <title>Welcome to Claudia's Kids</title>
+<link href="http://dev.williamcameron.info/shopping/css/default.css" rel="stylesheet" type="text/css" />
+<noscript>
+Javascript is not enabled! Please turn on Javascript to use this site.
+</noscript>
+
+<script type="text/javascript">
+//<![CDATA[
+base_url = 'http://dev.williamcameron.info/shopping/';
+//]]>
+</script>
+<script type="text/javascript" src="http://dev.williamcameron.info/shopping/js/prototype.js"></script>
+<script type="text/javascript" src="http://dev.williamcameron.info/shopping/js/scriptaculous.js" ></script>
+<script type="text/javascript" src="http://dev.williamcameron.info/shopping/js/customtools.js" ></script>
+</head>
+<body>
+<div id="wrapper">
+  <div id="header">
+  <a href="http://dev.williamcameron.info/shopping/">
+<img src="http://dev.williamcameron.info/shopping/images/logo.jpg" border="0"/>
+</a>
+
+<div id='globalnav'>
+<ul>
+<li><a href="http://dev.williamcameron.info/shopping/welcome/index" title="home">home</a></li><li><a href="http://dev.williamcameron.info/shopping/welcome/pages/about_us" title="about us">about us</a></li>
+<li><a href="http://dev.williamcameron.info/shopping/welcome/pages/contact" title="contact">contact</a></li>
+<li><a href="http://dev.williamcameron.info/shopping/welcome/cart" title="view cart">view cart</a></li>
+<li>
+
+<form action="http://dev.williamcameron.info/shopping/welcome/search" method="post"><input type="text" name="term" value="" maxlength="64" size="15" id="term"  />
+<input type="submit" name="submit" value="search"  />
+</form>
+</li>
+</ul>
+</div>
+
+  </div>
+  
+  <div id="nav">
+  <ul><li class='cat'><a href="http://dev.williamcameron.info/shopping/welcome/cat/7" title="clothes">clothes</a></li>
+
+<li class='subcat'><a href="http://dev.williamcameron.info/shopping/welcome/cat/3" title="pants">pants</a></li>
+<li class='subcat'><a href="http://dev.williamcameron.info/shopping/welcome/cat/2" title="shirts">shirts</a></li>
+<li class='subcat'><a href="http://dev.williamcameron.info/shopping/welcome/cat/1" title="shoes">shoes</a></li><li class='cat'><a href="http://dev.williamcameron.info/shopping/welcome/cat/8" title="fun">fun</a></li>
+
+<li class='subcat'><a href="http://dev.williamcameron.info/shopping/welcome/cat/6" title="games">games</a></li>
+<li class='subcat'><a href="http://dev.williamcameron.info/shopping/welcome/cat/5" title="toys">toys</a></li></ul>
+  </div>
+
+  <div id="main">
+  <div id='pleft'>
+<img src='/images/dummy-main1.jpg' border='0' align='left'/>
+<h2>Long-sleeved t-shirt</h2>
+<p>Very comfy!<br/>
+<a href="http://dev.williamcameron.info/shopping/welcome/product/14" title="see details">see details</a><br/>
+<a href="http://dev.williamcameron.info/shopping/welcome/cart/14" title="add to cart">add to cart</a></p>
+
+<br style='clear:both'><br/>
+<form action="http://dev.williamcameron.info/shopping/welcome/subscribe" method="post"><fieldset>
+<legend>Subscribe To Our Newsletter</legend>
+<p><label for='name'>Name</label><br/><input type="text" name="name" value="" maxlength="500" size="25" id="name"  />
+</p><p><label for='email'>Email</label><br/><input type="text" name="email" value="" maxlength="500" size="25" id="email"  />
+</p><input type="submit" name="submit" value="subscribe"  />
+</fieldset>
+</form>
+
+
+</div>
+
+<div id='pright'>
+<div class='productlisting'><img src='/images/dummy-thumb.jpg' border='0' class='thumbnail'/>
+<h4>Shirt 1</h4>
+<a href="http://dev.williamcameron.info/shopping/welcome/product/8" title="see details">see details</a><br/>
+<a href="http://dev.williamcameron.info/shopping/welcome/cart/8" title="add to cart">add to cart</a>
+</div><div class='productlisting'><img src='/images/dummy-thumb.jpg' border='0' class='thumbnail'/>
+<h4>Game 1</h4>
+<a href="http://dev.williamcameron.info/shopping/welcome/product/1" title="see details">see details</a><br/>
+<a href="http://dev.williamcameron.info/shopping/welcome/cart/1" title="add to cart">add to cart</a>
+</div><div class='productlisting'><img src='/images/dummy-thumb.jpg' border='0' class='thumbnail'/>
+<h4>Toy 2</h4>
+<a href="http://dev.williamcameron.info/shopping/welcome/product/5" title="see details">see details</a><br/>
+<a href="http://dev.williamcameron.info/shopping/welcome/cart/5" title="add to cart">add to cart</a>
+</div>
+
+</div>  </div>
+  
+  <div id="footer"> 
+  Copyright 2010 
+<a href="http://dev.williamcameron.info/shopping/welcome/pages/privacy" title="privacy policy">privacy policy</a>&nbsp;&nbsp;&nbsp;
+<a href="http://dev.williamcameron.info/shopping/welcome/verify" title="dashboard">dashboard</a>  </div>
+</div>
+</body>
+</html>
